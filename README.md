@@ -20,20 +20,9 @@
  - [x] Context
  - [x] localStorage
 
-## Como usar
-### É nescessario uso de uma API
- 
-$ git clon https://github.com/tiagoaraujo14/Dashboard-ReactJs.git
-<br>
-$ npm install / yarn install
-<br>
-No arquivo Template_API_Conection/src/service/api.tsx -> Coloque o Link da sua API
-<br>
-__
-<br>
-E em Template_API_Conection/src/service/authe.tsx -> coloque sua Rota de Login
-<br>
-$ npm start
+## Objetivo
+
+### Criar um dashboard para aprendizado das ferramentas do ReactJS e seus hooks, fazendo login com usuario e senha, e armazenando o token JWT, e consumindo uma API usando a biblioteca Axios.
 
 
  
