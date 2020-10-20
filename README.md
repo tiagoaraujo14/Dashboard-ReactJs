@@ -22,7 +22,7 @@
 
 ## Objetivo
 
-### Criar um dashboard para aprendizado das ferramentas do ReactJS e seus hooks, fazendo login com usuario e senha, e armazenando o token JWT, e consumindo uma API usando a biblioteca Axios.
+<p> Criar um dashboard para aprendizado das ferramentas do ReactJS e seus hooks, fazendo login com usuario e senha, e armazenando o token JWT, e consumindo uma API usando a biblioteca Axios. </p>
 
 
  
